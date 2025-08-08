@@ -1,0 +1,16 @@
+/* Additional custom styles can go here */
+.chat-container {
+  max-height: 400px;
+  overflow-y: auto;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.upload-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
